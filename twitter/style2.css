@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+body{
+    background-color: black;
+}
+.titulo{
+    margin-left: 10px;
+    font-size: 25px;
+}
+.barranav{
+    background-color: white;
+    width: 400px;
+    height: 39px;
+    font-family: 'Roboto', sans-serif;
+}
+.config{
+    position: relative;
+    padding-left: 249px;
+}

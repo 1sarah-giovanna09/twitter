@@ -1,0 +1,116 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+ body{
+    text-align: center;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    text-align: center;
+    align-items: center;
+ }
+ .twitter{
+    position: relative;
+    color: #00acee;
+    top: 6px;
+ }
+ .principal{
+    background-color: white;
+    border-radius: 5%;
+    width: 372px;
+    height: 464px;
+  
+    align-items: center;
+ }
+ .traco1{
+    display: flex;
+    width: 60px;
+    height: 1px;
+    background-color: black;
+    margin-left: 110px;
+    margin-top: 5px;
+ }
+  .titulo{
+    font-family: 'Roboto', sans-serif;
+  }
+  .login{
+    font-family: 'Roboto', sans-serif;
+    width: 200px;
+    height: 25px;
+    border-radius: 8px;
+    background-color: white;
+    border-color: gray;
+    font-size: 10px;
+    color: gray;
+  }
+  .google{
+    width: 200px;
+    height: 25px;
+    border-radius: 8px;
+    border-color: gray;
+    font-size: 12px;
+    background-color: white;
+  }
+  .entrar{
+    width: 200px;
+    height: 25px;
+    border-radius: 8px;
+    border-color: gray;
+    font-size: 12px;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+
+  }
+  .Input{
+    font-family: 'Roboto', sans-serif;
+    width: 200px;
+    height: 50px;
+    border-radius: 6px;
+    color: grey;
+  }
+  .avancar{
+    background-color: black;
+    color: white;;
+    border-radius: 8px;
+    width: 200px;
+    height: 29px;
+    font-family: 'Roboto', sans-serif;
+  
+  }
+  .esqueceu{
+    background-color: white;;
+     border-radius: 18px;
+     width: 200px;
+     height: 29px;
+     border-color: gray;
+     font-family: 'Roboto', sans-serif;
+     font-weight: 700;
+
+
+  }
+
+  .apple{
+   position: relative;
+    top: 3px;
+    left: 48px;
+    
+  }
+
+  .fim{
+    position: relative;
+    margin-left: -87px;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .frase-azul{
+    position: relative;
+    color:#00acee;
+    font-size: 12px;
+    top: -26px;
+    left: 45px;
+    font-family: 'Roboto', sans-serif;
+}
